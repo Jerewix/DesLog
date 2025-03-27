@@ -1,2 +1,2 @@
 # DesLog
-Auto LogOut to catch the prankers
+Auto LogOut to catch prankers
